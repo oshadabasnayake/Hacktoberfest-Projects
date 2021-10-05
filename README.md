@@ -101,6 +101,12 @@ git push origin <projectname-username> Compare & pull request button
 - Now click the pull request button on the drop down.
 - Wait for your changes to be merged.
 
+## Compare & Submit a Pull Request
+- If you go to your repository on GitHub, you'll see a new section containing contribute buttom! Click on that button.
+- Now click the pull request button on the drop down.
+- Wait for your changes to be merged.
+
+
 Hurray! You successfully made a contribution! 🎉
 <hr>
 
